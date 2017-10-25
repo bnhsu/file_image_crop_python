@@ -1,4 +1,5 @@
-#written by bnhsu 2017
+# written by bnhsu 2017
+# croping all the images in the file into the same size 
 
 from PIL import Image
 import numpy as np
